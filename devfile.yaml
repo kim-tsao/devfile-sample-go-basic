@@ -14,7 +14,6 @@ metadata:
   attributes:
     alpha.dockerimage-port: 8081
 parent:
-  id: go
   uri: 'https://raw.githubusercontent.com/kim-tsao/devfile-go-stack/main/devfile.yaml'
 components:
   - name: image-build
